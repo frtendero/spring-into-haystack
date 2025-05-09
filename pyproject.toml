@@ -1,0 +1,10 @@
+[project]
+name = "spring-into-haystack"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "haystack-ai==2.12.2",
+    "mcp-haystack>=0.0.2",
+]
